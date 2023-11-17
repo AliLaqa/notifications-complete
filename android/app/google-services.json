@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "658817121063",
+    "firebase_url": "https://fcm-push-notifications-flutter-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fcm-push-notifications-flutter",
+    "storage_bucket": "fcm-push-notifications-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658817121063:android:f562daf2801a9c809fc702",
+        "android_client_info": {
+          "package_name": "com.app_xpert.fcm_push_notifications_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70DzplHjZWOzRyzXShpnrV7IbC2xFvdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658817121063:android:ce3eaeb2fa77103e9fc702",
+        "android_client_info": {
+          "package_name": "com.app_xpert.notification_complete.notification_complete"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70DzplHjZWOzRyzXShpnrV7IbC2xFvdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
